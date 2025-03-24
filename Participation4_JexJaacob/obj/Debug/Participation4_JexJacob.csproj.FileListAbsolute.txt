@@ -1,0 +1,15 @@
+D:\Fall 2024\INFO 2200\participations\Participation4_JexJaacob\bin\Debug\Participation4_JexJaacob.exe.config
+D:\Fall 2024\INFO 2200\participations\Participation4_JexJaacob\bin\Debug\Participation4_JexJaacob.exe
+D:\Fall 2024\INFO 2200\participations\Participation4_JexJaacob\bin\Debug\Participation4_JexJaacob.pdb
+D:\Fall 2024\INFO 2200\participations\Participation4_JexJaacob\obj\Debug\Participation4_JexJacob.csproj.AssemblyReference.cache
+D:\Fall 2024\INFO 2200\participations\Participation4_JexJaacob\obj\Debug\Participation4_JexJaacob.LandingForm.resources
+D:\Fall 2024\INFO 2200\participations\Participation4_JexJaacob\obj\Debug\Participation4_JexJaacob.Properties.Resources.resources
+D:\Fall 2024\INFO 2200\participations\Participation4_JexJaacob\obj\Debug\Participation4_JexJacob.csproj.GenerateResource.cache
+D:\Fall 2024\INFO 2200\participations\Participation4_JexJaacob\obj\Debug\Participation4_JexJacob.csproj.CoreCompileInputs.cache
+D:\Fall 2024\INFO 2200\participations\Participation4_JexJaacob\obj\Debug\Participation4_JexJaacob.exe
+D:\Fall 2024\INFO 2200\participations\Participation4_JexJaacob\obj\Debug\Participation4_JexJaacob.pdb
+D:\Fall 2024\INFO 2200\participations\Participation4_JexJaacob\bin\Debug\PhonesDb.mdf
+D:\Fall 2024\INFO 2200\participations\Participation4_JexJaacob\bin\Debug\PhonesDb_log.ldf
+D:\Fall 2024\INFO 2200\participations\Participation4_JexJaacob\obj\Debug\Participation4_JexJaacob.ImportedPhonesForm.resources
+D:\Fall 2024\INFO 2200\participations\Participation4_JexJaacob\obj\Debug\Participation4_JexJaacob.LocalPhonesForm.resources
+D:\Fall 2024\INFO 2200\participations\Participation4_JexJaacob\obj\Debug\Participation4_JexJaacob.OnlinePhonesForm.resources
