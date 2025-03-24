@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "INFO2200_Participation1_CSharp_JexJacob/1.0.0": {
+        "runtime": {
+          "INFO2200_Participation1_CSharp_JexJacob.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "INFO2200_Participation1_CSharp_JexJacob/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

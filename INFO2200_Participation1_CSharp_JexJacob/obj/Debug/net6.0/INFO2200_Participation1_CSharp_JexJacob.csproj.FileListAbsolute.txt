@@ -1,0 +1,14 @@
+C:\Users\11025597\Desktop\INFO 2200\INFO2200_Participation1_CSharp_JexJacob\obj\Debug\net6.0\INFO2200_Participation1_CSharp_JexJacob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11025597\Desktop\INFO 2200\INFO2200_Participation1_CSharp_JexJacob\obj\Debug\net6.0\INFO2200_Participation1_CSharp_JexJacob.AssemblyInfoInputs.cache
+C:\Users\11025597\Desktop\INFO 2200\INFO2200_Participation1_CSharp_JexJacob\obj\Debug\net6.0\INFO2200_Participation1_CSharp_JexJacob.AssemblyInfo.cs
+C:\Users\11025597\Desktop\INFO 2200\INFO2200_Participation1_CSharp_JexJacob\obj\Debug\net6.0\INFO2200_Participation1_CSharp_JexJacob.csproj.CoreCompileInputs.cache
+C:\Users\11025597\Desktop\INFO 2200\INFO2200_Participation1_CSharp_JexJacob\bin\Debug\net6.0\INFO2200_Participation1_CSharp_JexJacob.exe
+C:\Users\11025597\Desktop\INFO 2200\INFO2200_Participation1_CSharp_JexJacob\bin\Debug\net6.0\INFO2200_Participation1_CSharp_JexJacob.deps.json
+C:\Users\11025597\Desktop\INFO 2200\INFO2200_Participation1_CSharp_JexJacob\bin\Debug\net6.0\INFO2200_Participation1_CSharp_JexJacob.runtimeconfig.json
+C:\Users\11025597\Desktop\INFO 2200\INFO2200_Participation1_CSharp_JexJacob\bin\Debug\net6.0\INFO2200_Participation1_CSharp_JexJacob.dll
+C:\Users\11025597\Desktop\INFO 2200\INFO2200_Participation1_CSharp_JexJacob\bin\Debug\net6.0\INFO2200_Participation1_CSharp_JexJacob.pdb
+C:\Users\11025597\Desktop\INFO 2200\INFO2200_Participation1_CSharp_JexJacob\obj\Debug\net6.0\INFO2200_Participation1_CSharp_JexJacob.dll
+C:\Users\11025597\Desktop\INFO 2200\INFO2200_Participation1_CSharp_JexJacob\obj\Debug\net6.0\refint\INFO2200_Participation1_CSharp_JexJacob.dll
+C:\Users\11025597\Desktop\INFO 2200\INFO2200_Participation1_CSharp_JexJacob\obj\Debug\net6.0\INFO2200_Participation1_CSharp_JexJacob.pdb
+C:\Users\11025597\Desktop\INFO 2200\INFO2200_Participation1_CSharp_JexJacob\obj\Debug\net6.0\INFO2200_Participation1_CSharp_JexJacob.genruntimeconfig.cache
+C:\Users\11025597\Desktop\INFO 2200\INFO2200_Participation1_CSharp_JexJacob\obj\Debug\net6.0\ref\INFO2200_Participation1_CSharp_JexJacob.dll

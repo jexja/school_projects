@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HrqzZ/F5SKk=",
+  "success": true,
+  "projectFilePath": "D:\\Fall 2024\\INFO 2200\\participations\\INFO2200_Participation1_CSharp_JexJacob\\INFO2200_Participation1_CSharp_JexJacob.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\11025597\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\11025597\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\11025597\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\11025597\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
